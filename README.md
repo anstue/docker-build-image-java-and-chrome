@@ -1,2 +1,3 @@
-# docker-build-image-java-and-chrome
-Build image with openjdk, Google Chrome and python
+# Build image
+
+This image can be used during a build, it contains openjdk, Google Chrome and python.
